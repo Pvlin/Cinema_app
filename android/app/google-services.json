@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140472495494",
+    "project_id": "cinematown-49ea9",
+    "storage_bucket": "cinematown-49ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140472495494:android:a8ea443ecc7a55b9f29007",
+        "android_client_info": {
+          "package_name": "com.example.cinema_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140472495494-gfqvuhut139pc7holnag56kv0kir4qve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFph1Y5Cgj6UEEvRJyKTNWdDBgAgqO6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140472495494-gfqvuhut139pc7holnag56kv0kir4qve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
